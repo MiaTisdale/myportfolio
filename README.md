@@ -1,3 +1,2 @@
 # myportfolio
-Project website
-*Will update at a later date
+Project website, will update at a later date
